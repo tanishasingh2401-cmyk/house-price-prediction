@@ -1,0 +1,12 @@
+{
+    "project": "House Price Prediction",
+    "algorithm": "Random Forest Regressor",
+    "n_estimators": 100,
+    "random_state": 42,
+    "target_column": "price",
+    "evaluation_metrics": {
+        "MAE": 1021546.04,
+        "RMSE": 1400565.97,
+        "R2_Score": 0.6119
+    }
+}
